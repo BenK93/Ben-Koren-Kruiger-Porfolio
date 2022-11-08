@@ -35,7 +35,7 @@ export default function FavouriteProjects() {
                 <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-5">
                     {/* Single card */}
                     <a
-                        href="https://manuarora.in"
+                        href="https://github.com/BenK93/OpenCV-Reflection-Seperation"
                         className="w-full block col-span-3 sm:col-span-2  object-cover"
                     >
                         <div className="relative rounded-lg overflow-hidden shadow-2xl">
@@ -58,7 +58,7 @@ export default function FavouriteProjects() {
                 <div className="grid md:grid-cols-3 gap-8 lg:-mt-2 pb-5">
                     {/* Single card */}
                     <a
-                        href="https://tailwindmasterkit.com"
+                        href="https://github.com/BenK93/GeThaText"
                         className="w-full block col-span-2 shadow-2xl col-end-4"
                     >
                         <div className="relative rounded-lg overflow-hidden">
@@ -80,7 +80,7 @@ export default function FavouriteProjects() {
                 <div className="grid md:grid-cols-3 gap-8 lg:-mt-2 pb-5">
                     {/* Single card */}
                     <a
-                        href="https://placeholdertech.in"
+                        href="https://graph-traveler.web.app/"
                         className="w-full block col-span-2 shadow-2xl"
                     >
                         <div className="relative rounded-lg overflow-hidden">
