@@ -6,7 +6,7 @@ export default function FavouriteProjects() {
         <div className="bg-[#F1F1F1] -mt-40 dark:bg-gray-900">
             <div className="max-w-6xl mx-auto">
                 <header className="flex flex-col md:flex-row justify-between items-center pt-40 mx-10 md:my-20 lg:my-0">
-                    <h1 className="text-6xl lg:text-9xl max-w-lg font-bold text-gray-500 my-20 md:my-0 md:text-white dark:text-gray-600 text-center">
+                    <h1 className="text-6xl lg:text-9xl max-w-lg font-bold text-gray-500 mt-4 my-0 md:my-0 md:text-white dark:text-gray-600 text-center pb-10">
                         Top Projects
                     </h1>
                     <Link href="/projects">
@@ -38,7 +38,7 @@ export default function FavouriteProjects() {
                         href="https://manuarora.in"
                         className="w-full block col-span-3 sm:col-span-2  object-cover"
                     >
-                        <div className="relative overflow-hidden shadow-2xl">
+                        <div className="relative rounded-lg overflow-hidden shadow-2xl">
                             {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
                             <img
                                 src="/reflection.png"
@@ -61,7 +61,7 @@ export default function FavouriteProjects() {
                         href="https://tailwindmasterkit.com"
                         className="w-full block col-span-2 shadow-2xl col-end-4"
                     >
-                        <div className="relative overflow-hidden">
+                        <div className="relative rounded-lg overflow-hidden">
                             <img
                                 src="https://user-images.githubusercontent.com/21170255/139416090-f04dcfca-c286-45c0-95f3-cc24e404d6d9.png"
                                 alt="portfolio"
@@ -83,7 +83,7 @@ export default function FavouriteProjects() {
                         href="https://placeholdertech.in"
                         className="w-full block col-span-2 shadow-2xl"
                     >
-                        <div className="relative overflow-hidden">
+                        <div className="relative rounded-lg overflow-hidden">
                             {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
                             <img
                                 src="/graph-trav.png"

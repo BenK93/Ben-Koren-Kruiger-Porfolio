@@ -82,6 +82,7 @@ const userData = {
   ],
   resumeUrl:
     "https://drive.google.com/file/d/1uUucksqyCU6WIPrFx-3sSd6Gbi4Wwrn4/view?usp=sharing",
+  telephone: "+972544907183",
   socialLinks: {
     instagram: "https://www.instagram.com/benkorenk/",
     twitter: "https://twitter.com",
